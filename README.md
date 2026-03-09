@@ -187,4 +187,3 @@ jupyter lab
 
 ---
 
-*Projet réalisé dans le cadre d'une formation Data Analyste — Mars 2026*
